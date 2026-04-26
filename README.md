@@ -7,8 +7,8 @@
 <p align="center">
  مرجع اخلاق و اصول برنامه‌نویسی
 <p align="center">
-  <img src="https://img.shields.io/github/stars/wukalt/clean-coder-persian?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/wukalt/clean-coder-persian?color=blueviolet" alt="GitHub forks">
+  <img src="https://img.shields.io/github/stars/hheydarian/clean-coder-persian?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/hheydarian/clean-coder-persian?color=blueviolet" alt="GitHub forks">
   <img src="https://img.shields.io/github/last-commit/wukalt/clean-coder-persian?color=9cf" alt="Last Commit">
   <img src="https://img.shields.io/badge/Translation-100%25-success" alt="Translation Status">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=wukalt.clean-coder-persian" alt="Visitors">
